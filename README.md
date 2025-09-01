@@ -17,8 +17,8 @@ Project page: https://roadmap.sh/projects/github-user-activity
 2. Change into the project folder:
    cd GitHub_User_Activity
 
-3. (Optional) Make the script executable:
-   chmod +x github-activity.js
+3. Install dependencies:
+   npm install
 
 No additional npm packages are required; the script uses Node's built-in https module.
 
