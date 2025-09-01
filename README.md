@@ -12,7 +12,7 @@ Project page: https://roadmap.sh/projects/github-user-activity
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/YourUsername/GitHub_User_Activity.git
+   git clone https://github.com/KarlangaXZ/GitHub_User_Activity.git
 
 2. Change into the project folder:
    cd GitHub_User_Activity
